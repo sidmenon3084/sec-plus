@@ -1,2 +1,3 @@
-# sec-plus
-Current portfolio for projects in pursuit of a Security+ certification.
+# Security+
+
+Current portfolio for projects in pursuit of a **Security+** certification.
